@@ -1,0 +1,55 @@
+Student Name,Student Email/ School ID,Rostered Grade,School Name,Course Name,Skill Name ,Current Skill Mastery Level,Skill Mastery Level (Numerical),Standards (Nice to have) - 1,Teacher Email (Nice to have) - 2
+"Kaulberg, Ankita",ankita@khanacademy.org,4th,Khan Academy Test ES,4th Grade Math,Fractions,Not Started,0,"CCSS.Math: 3.G.A.2, 3.NF.A.1","anushee@khanacademy.org, kathy@khanacademy.org"
+"Kaulberg, Ankita",ankita@khanacademy.org,4th,Khan Academy Test ES,4th Grade Math,Some Other Skill 1,Familiar,50,"CCSS.Math: 3.G.A.2, 3.NF.A.2","anushee@khanacademy.org, kathy@khanacademy.org"
+"Kaulberg, Ankita",ankita@khanacademy.org,4th,Khan Academy Test ES,4th Grade Math,Some other Skill 2,Attempted,0,"CCSS.Math: 3.G.A.2, 3.NF.A.3","anushee@khanacademy.org, kathy@khanacademy.org"
+"Kaulberg, Ankita",ankita@khanacademy.org,4th,Khan Academy Test ES,4th Grade Math,Some oother skill 3,Proficient,80,"CCSS.Math: 3.G.A.2, 3.NF.A.4","anushee@khanacademy.org, kathy@khanacademy.org"
+"Kaulberg, Ankita",ankita@khanacademy.org,4th,Khan Academy Test ES,4th Grade Math,Some other skill 4,Mastered,100,"CCSS.Math: 3.G.A.2, 3.NF.A.5","anushee@khanacademy.org, kathy@khanacademy.org"
+"Kaulberg, Ankita",ankita@khanacademy.org,4th,Khan Academy Test ES,4th Grade Math,Some other skill 5,Mastered,100,"CCSS.Math: 3.G.A.2, 3.NF.A.6","anushee@khanacademy.org, kathy@khanacademy.org"
+"Kaulberg, Ankita",ankita@khanacademy.org,4th,Khan Academy Test ES,4th Grade Math,Some other skill 6,Attempted,0,"CCSS.Math: 3.G.A.2, 3.NF.A.7","anushee@khanacademy.org, kathy@khanacademy.org"
+"Kaulberg, Ankita",ankita@khanacademy.org,4th,Khan Academy Test ES,4th Grade Math,Some other skill 7,Attempted,0,"CCSS.Math: 3.G.A.2, 3.NF.A.8","anushee@khanacademy.org, kathy@khanacademy.org"
+"Kaulberg, Ankita",ankita@khanacademy.org,4th,Khan Academy Test ES,4th Grade Math,Some other skill 8,Proficient,80,"CCSS.Math: 3.G.A.2, 3.NF.A.9","anushee@khanacademy.org, kathy@khanacademy.org"
+"Kaulberg, Ankita",ankita@khanacademy.org,4th,Khan Academy Test ES,GRFGL - 4th Grade,Some Prereq Skill 1 from 3rd Grade,Attempted,0,"CCSS.Math: 3.G.A.2, 3.NF.A.10","anushee@khanacademy.org, kathy@khanacademy.org"
+"Kaulberg, Ankita",ankita@khanacademy.org,4th,Khan Academy Test ES,GRFGL - 4th Grade,Some Prereq Skill 2 from 3rd Grade,Attempted,0,"CCSS.Math: 3.G.A.2, 3.NF.A.11","anushee@khanacademy.org, kathy@khanacademy.org"
+"Kaulberg, Ankita",ankita@khanacademy.org,4th,Khan Academy Test ES,GRFGL - 4th Grade,Some Prereq Skill 3 from KG Grade,Proficient,80,"CCSS.Math: 3.G.A.2, 3.NF.A.12","anushee@khanacademy.org, kathy@khanacademy.org"
+"Kaulberg, Ankita",ankita@khanacademy.org,4th,Khan Academy Test ES,GRFGL - 4th Grade,Some Prereq Skill 4 from 3rd Grade,Proficient,80,"CCSS.Math: 3.G.A.2, 3.NF.A.13","anushee@khanacademy.org, kathy@khanacademy.org"
+"Kaulberg, Ankita",ankita@khanacademy.org,4th,Khan Academy Test ES,GRFGL - 4th Grade,Some Prereq Skill 5 from 2nd Grade,Proficient,80,"CCSS.Math: 3.G.A.2, 3.NF.A.14","anushee@khanacademy.org, kathy@khanacademy.org"
+"Kaulberg, Ankita",ankita@khanacademy.org,4th,Khan Academy Test ES,GRFGL - 4th Grade,Some Prereq Skill 6 from 2nd Grade,Proficient,80,"CCSS.Math: 3.G.A.2, 3.NF.A.15","anushee@khanacademy.org, kathy@khanacademy.org"
+"Kaulberg, Ankita",ankita@khanacademy.org,4th,Khan Academy Test ES,GRFGL - 4th Grade,Some Prereq Skill 7 from 3rd Grade,Attempted,0,"CCSS.Math: 3.G.A.2, 3.NF.A.16","anushee@khanacademy.org, kathy@khanacademy.org"
+"Kaulberg, Ankita",ankita@khanacademy.org,4th,Khan Academy Test ES,GRFGL - 4th Grade,Some Prereq Skill 8 from 3rd Grade,Attempted,0,"CCSS.Math: 3.G.A.2, 3.NF.A.17","anushee@khanacademy.org, kathy@khanacademy.org"
+"Kaulberg, Ankita",ankita@khanacademy.org,4th,Khan Academy Test ES,GRFGL - 4th Grade,Some Prereq Skill 9 from 3rd Grade,Attempted,0,"CCSS.Math: 3.G.A.2, 3.NF.A.18","anushee@khanacademy.org, kathy@khanacademy.org"
+"Philip, Kathy",kathy@khanacademy.org,4th,Another Test School ES,4th Grade Math,Fractions,Mastered,,,
+"Philip, Kathy",kathy@khanacademy.org,4th,Another Test School ES,4th Grade Math,Some Other Skill 1,Mastered,,,
+"Philip, Kathy",kathy@khanacademy.org,4th,Another Test School ES,4th Grade Math,Some other Skill 2,Mastered,,,
+"Philip, Kathy",kathy@khanacademy.org,4th,Another Test School ES,4th Grade Math,Some oother skill 3,Mastered,,,
+"Philip, Kathy",kathy@khanacademy.org,4th,Another Test School ES,4th Grade Math,Some other skill 4,Proficient,,,
+"Philip, Kathy",kathy@khanacademy.org,4th,Another Test School ES,4th Grade Math,Some other skill 5,Proficient,,,
+"Philip, Kathy",kathy@khanacademy.org,4th,Another Test School ES,4th Grade Math,Some other skill 6,Familiar,,,
+"Philip, Kathy",kathy@khanacademy.org,4th,Another Test School ES,4th Grade Math,Some other skill 7,Proficient,,,
+"Philip, Kathy",kathy@khanacademy.org,4th,Another Test School ES,4th Grade Math,Some other skill 8,Not Started,,,
+"Philip, Kathy",kathy@khanacademy.org,4th,Another Test School ES,GRFGL - 4th Grade,Some Prereq Skill 1 from 3rd Grade,Mastered,,,
+"Philip, Kathy",kathy@khanacademy.org,4th,Another Test School ES,GRFGL - 4th Grade,Some Prereq Skill 2 from 3rd Grade,Mastered,,,
+"Philip, Kathy",kathy@khanacademy.org,4th,Another Test School ES,GRFGL - 4th Grade,Some Prereq Skill 3 from KG Grade,Mastered,,,
+"Philip, Kathy",kathy@khanacademy.org,4th,Another Test School ES,GRFGL - 4th Grade,Some Prereq Skill 4 from 3rd Grade,Familiar,,,
+"Philip, Kathy",kathy@khanacademy.org,4th,Another Test School ES,GRFGL - 4th Grade,Some Prereq Skill 5 from 2nd Grade,Mastered,,,
+"Philip, Kathy",kathy@khanacademy.org,4th,Another Test School ES,GRFGL - 4th Grade,Some Prereq Skill 6 from 2nd Grade,Mastered,,,
+"Philip, Kathy",kathy@khanacademy.org,4th,Another Test School ES,GRFGL - 4th Grade,Some Prereq Skill 7 from 3rd Grade,Mastered,,,
+"Philip, Kathy",kathy@khanacademy.org,4th,Another Test School ES,GRFGL - 4th Grade,Some Prereq Skill 8 from 3rd Grade,Mastered,,,
+"Philip, Kathy",kathy@khanacademy.org,4th,Another Test School ES,GRFGL - 4th Grade,Some Prereq Skill 9 from 3rd Grade,Attempted,,,
+"Shah, Rupesh",rupesh@khanacademy.org,5th,Khan Academy Test ES,5th Grade Math,Skill A in 5th Grade,Proficient,,,
+"Shah, Rupesh",rupesh@khanacademy.org,5th,Khan Academy Test ES,5th Grade Math,Skill B in 5th Grade,Proficient,,,
+"Shah, Rupesh",rupesh@khanacademy.org,5th,Khan Academy Test ES,5th Grade Math,Skill C in 5th Grade,Attempted,,,
+"Shah, Rupesh",rupesh@khanacademy.org,5th,Khan Academy Test ES,5th Grade Math,Skill D in 5th Grade,Attempted,,,
+"Shah, Rupesh",rupesh@khanacademy.org,5th,Khan Academy Test ES,5th Grade Math,Skill E in 5th Grade,Familiar,,,
+"Shah, Rupesh",rupesh@khanacademy.org,5th,Khan Academy Test ES,5th Grade Math,Skill F in 5th Grade,Familiar,,,
+"Shah, Rupesh",rupesh@khanacademy.org,5th,Khan Academy Test ES,5th Grade Math,Skill G in 5th Grade,Familiar,,,
+"Shah, Rupesh",rupesh@khanacademy.org,5th,Khan Academy Test ES,5th Grade Math,Skill H in 5th Grade,Not Started,,,
+"Shah, Rupesh",rupesh@khanacademy.org,5th,Khan Academy Test ES,5th Grade Math,Skill I in 5th Grade,Not Started,,,
+"Shah, Rupesh",rupesh@khanacademy.org,5th,Khan Academy Test ES,GRFGL - 5th Grade,Some Prereq Skill 1 from 4th grade,Proficient,,,
+"Shah, Rupesh",rupesh@khanacademy.org,5th,Khan Academy Test ES,GRFGL - 5th Grade,Some Prereq Skill 2 from 4th grade,Proficient,,,
+"Shah, Rupesh",rupesh@khanacademy.org,5th,Khan Academy Test ES,GRFGL - 5th Grade,Some Prereq Skill 3 from 4th grade,Proficient,,,
+"Shah, Rupesh",rupesh@khanacademy.org,5th,Khan Academy Test ES,GRFGL - 5th Grade,Some Prereq Skill 4 from 4th grade,Familiar,,,
+"Shah, Rupesh",rupesh@khanacademy.org,5th,Khan Academy Test ES,GRFGL - 5th Grade,Some Prereq Skill 5 from 4th grade,Familiar,,,
+"Shah, Rupesh",rupesh@khanacademy.org,5th,Khan Academy Test ES,GRFGL - 5th Grade,Some Prereq Skill 6 from 3rd grade,Proficient,,,
+"Shah, Rupesh",rupesh@khanacademy.org,5th,Khan Academy Test ES,GRFGL - 5th Grade,Some Prereq Skill 7 from 2nd grade,Mastered,,,
+"Shah, Rupesh",rupesh@khanacademy.org,5th,Khan Academy Test ES,GRFGL - 5th Grade,Some Prereq Skill 8 from 4th grade,Mastered,,,
+"Shah, Rupesh",rupesh@khanacademy.org,5th,Khan Academy Test ES,GRFGL - 5th Grade,Some Prereq Skill 9 from 4th grade,Not Started,,,
